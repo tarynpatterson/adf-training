@@ -1,0 +1,9 @@
+{
+	"name": "cdudevtarynadf",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e7ee2454-a563-42b8-ab98-b966fbf36236",
+		"tenantId": "33f5e80c-8ea7-4009-b560-7cf66898f586"
+	}
+}
