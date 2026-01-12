@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "cdudevtarynadf"
+		},
+		"LS_ADLS_accountKey": {
+			"value": ""
+		},
+		"LS_ASQL_password": {
+			"value": ""
+		},
+		"LS_ADLS_properties_typeProperties_url": {
+			"value": "https://cdudevtaryn.dfs.core.windows.net/"
+		},
+		"LS_ASQL_properties_typeProperties_server": {
+			"value": "cdudevtarynserver.database.windows.net"
+		},
+		"LS_ASQL_properties_typeProperties_database": {
+			"value": "cdudevtaryn_db"
+		},
+		"LS_ASQL_properties_typeProperties_userName": {
+			"value": "admintarynPatterson"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
