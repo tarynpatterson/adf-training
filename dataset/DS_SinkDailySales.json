@@ -1,0 +1,16 @@
+{
+	"name": "DS_SinkDailySales",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_ASQL",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "tblDailySales"
+		}
+	}
+}
